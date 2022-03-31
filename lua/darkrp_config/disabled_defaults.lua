@@ -35,7 +35,7 @@ DarkRP.disabledDefaults["modules"] = {
     ["playerscale"]      = false,
     ["sleep"]            = false,
     ["fadmin"]           = false,
-    ["animations"]       = false,
+    ["animations"]       = true,
     ["chatindicator"]    = false,
 }
 
